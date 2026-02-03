@@ -2,5 +2,5 @@ Ramon Eduardo Lizarraga Villaseñor
 3/2/2026
 Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
 
-Un pull request (PR) o solicitud de extracción es una funcionalidad de plataformas como GitHub o GitLab que permite a los desarrolladores 
+Un pull request (PR) o tambien solicitud de extracción es una funcionalidad de plataformas como GitHub o GitLab que permite a los desarrolladores 
 notificar a su equipo que han completado una funcionalidad, proponiendo integrar sus cambios de código de una rama a la rama principal (o de producción)
