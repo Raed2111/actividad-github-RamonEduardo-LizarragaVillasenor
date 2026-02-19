@@ -1,0 +1,3 @@
+Proyecto: Git Conflicts
+Responsable: ramon eduardo lizarraga villaseñor
+Version: 1.0
